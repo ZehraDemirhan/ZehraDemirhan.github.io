@@ -36,7 +36,7 @@ h2{
     margin-bottom: 1.5em;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:900px) {
     header{
         height:30em;
     }
@@ -50,6 +50,7 @@ h3{
 .row{
     height:100%;
     width:55%;
+
 }
 
 
